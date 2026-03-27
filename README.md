@@ -90,12 +90,9 @@ Simulated e-commerce / retail company wanting to understand:
 **Main Recommendations**  
 - Outerwear category has growth potential, focus marketing efforts on this category to drive up sales
 - Prioritize growing the subscription base for better long-term retention; use discounts more tactically (acquisition, inventory clearance) rather than as a default lever.
-- 
 
 ## Tech Stack
 
 - **Database**: MySQL  
 - **Only tool used**: SQL (queries, CTEs, window functions, aggregations, CASE logic)  
-- **No** Python, pandas, Excel, Power BI, Tableau, or any visualization library
 
-## Project Structure
