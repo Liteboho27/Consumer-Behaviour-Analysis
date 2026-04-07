@@ -69,7 +69,7 @@ Simulated e-commerce / retail company wanting to understand:
 4. **Payment Mothods and Purchase Frequency**
 - Paypal is the most preferred payment method in gemneral
 - The older customers (>45 years) prefer paying with Paypal and Credit Cards, middle age customers (30-45 years) prefer Paypal and younger customer (<30 years) prefer cash.
-- Most older customer place orders quarterly, middle age annually and younger Bi-weekly. The younger age group order more frequently. They could be buying fash fashion items to keep up with trends.
+- Most older customer place orders quarterly, middle age annually and younger Bi-weekly. The younger age group order more frequently. They could be buying fast fashion items to keep up with trends.
 
 <img width="1155" height="323" alt="Payment method usage" src="https://github.com/user-attachments/assets/d7bcc05e-42f5-4a4c-999d-10580c79bae3" />
 
@@ -89,7 +89,7 @@ Simulated e-commerce / retail company wanting to understand:
 
 **Main Recommendations**  
 - Outerwear category has growth potential, focus marketing efforts on this category to drive up sales
-- Prioritize growing the subscription base for better long-term retention; use discounts more tactically (acquisition, inventory clearance) rather than as a default lever.
+- Prioritize growing the subscription base for better long-term retention and use discounts more tactically (acquisition, inventory clearance) rather than as a default lever.
 
 ## Tech Stack
 
