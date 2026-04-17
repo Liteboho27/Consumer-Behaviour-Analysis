@@ -1,4 +1,4 @@
-# Consumer Shopping Behaviour Analysis - SQL Project
+# Consumer Shopping Behaviour Analysis 
 
 ## Project Overview
 
