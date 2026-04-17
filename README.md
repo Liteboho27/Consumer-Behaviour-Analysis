@@ -18,7 +18,6 @@ Simulated e-commerce / retail company wanting to understand:
 - Do discounts lift or compress order value?  
 - Does the subscription program drive retention?  
 - How does purchase frequency vary by age?
-- Do discounts have an impact on review ratings?
 - Which payment methods are the most preferred?
 
 ## Key Business Insights
